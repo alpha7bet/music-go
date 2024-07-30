@@ -1,6 +1,6 @@
 {
   "name": "@alpha7bet/music-go",
-  "version": "1.0.145",
+  "version": "1.0.146",
   "description": "Description for music-go",
   "main": "src/index.js",
   "scripts": {
